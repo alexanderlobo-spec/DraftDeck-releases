@@ -46,9 +46,9 @@ Baixe o arquivo da versão nova e instale por cima. As apresentações ficam ond
 
 ## Versão atual
 
-0.7.0-draftdeck.1 (15/out/2026).
+0.7.0-draftdeck.2 (15/out/2026).
 
-Novidades: primeira versão. Interface Manzana (Linha, Biblioteca, Trilho) nas três aparências Manzana, Céu e Grafite, em português do Brasil, inglês e espanhol; salvamento automático em arquivo aberto e recuperação de apresentações; botão Fechar; abre e salva `.pptx`.
+Novidades: ícones da família Manzana Line nos comandos compartilhados com o DraftWord, diálogos que ajustam a altura ao conteúdo e rolam quando não cabem, abas da faixa completa acessíveis em janela estreita e mais textos em português. A versão anterior (draftdeck.1) trouxe a interface Manzana nas três aparências, três idiomas, salvamento automático e recuperação, botão Fechar e suporte a `.pptx`.
 
 ## Código-fonte
 

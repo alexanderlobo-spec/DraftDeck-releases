@@ -46,9 +46,9 @@ Download the new version's file and install it over the old one. Your presentati
 
 ## Current version
 
-0.7.0-draftdeck.1 (October 15, 2026).
+0.7.0-draftdeck.2 (October 15, 2026).
 
-What's new: first release. Manzana interface (Linha, Library, Trilho) in the three looks Manzana, Céu and Grafite, in Brazilian Portuguese, English and Spanish; AutoSave on opened files and presentation recovery; Close button; opens and saves `.pptx`.
+What's new: Manzana Line icons on the commands shared with DraftWord, dialogs that fit their content and scroll when they don't fit, full-ribbon tabs reachable in narrow windows and more Portuguese text. The previous release (draftdeck.1) brought the Manzana interface in three looks, three languages, AutoSave and recovery, the Close button and `.pptx` support.
 
 ## Source code
 
