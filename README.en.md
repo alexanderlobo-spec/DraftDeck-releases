@@ -46,9 +46,9 @@ Download the new version's file and install it over the old one. Your presentati
 
 ## Current version
 
-0.7.0-draftdeck.2 (October 15, 2026).
+0.7.0-draftdeck.3 (October 15, 2026).
 
-What's new: Manzana Line icons on the commands shared with DraftWord, dialogs that fit their content and scroll when they don't fit, full-ribbon tabs reachable in narrow windows and more Portuguese text. The previous release (draftdeck.1) brought the Manzana interface in three looks, three languages, AutoSave and recovery, the Close button and `.pptx` support.
+What's new: wraps up the validation of the new interface (same app as .2, with the dialog tests consolidated). From .2: Manzana Line icons on the commands shared with DraftWord, dialogs that fit their content and scroll when they don't fit, full-ribbon tabs reachable in narrow windows and more Portuguese text. The .1 release brought the Manzana interface in three looks, three languages, AutoSave and recovery, the Close button and `.pptx` support.
 
 ## Source code
 

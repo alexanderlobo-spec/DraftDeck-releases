@@ -46,9 +46,9 @@ Baixe o arquivo da versão nova e instale por cima. As apresentações ficam ond
 
 ## Versão atual
 
-0.7.0-draftdeck.2 (15/out/2026).
+0.7.0-draftdeck.3 (15/out/2026).
 
-Novidades: ícones da família Manzana Line nos comandos compartilhados com o DraftWord, diálogos que ajustam a altura ao conteúdo e rolam quando não cabem, abas da faixa completa acessíveis em janela estreita e mais textos em português. A versão anterior (draftdeck.1) trouxe a interface Manzana nas três aparências, três idiomas, salvamento automático e recuperação, botão Fechar e suporte a `.pptx`.
+Novidades: fechamento da validação da interface nova (mesmo app da .2, com os testes de diálogo consolidados). Da .2: ícones da família Manzana Line nos comandos compartilhados com o DraftWord, diálogos que ajustam a altura ao conteúdo e rolam quando não cabem, abas da faixa completa acessíveis em janela estreita e mais textos em português. A .1 trouxe a interface Manzana nas três aparências, três idiomas, salvamento automático e recuperação, botão Fechar e suporte a `.pptx`.
 
 ## Código-fonte
 
