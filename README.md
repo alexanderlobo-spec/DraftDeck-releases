@@ -46,9 +46,9 @@ Baixe o arquivo da versão nova e instale por cima. As apresentações ficam ond
 
 ## Versão atual
 
-0.7.0-draftdeck.5 (16/out/2026).
+0.7.0-draftdeck.6 (16/out/2026).
 
-Novidades: o aviso de um arquivo que não abriu (por exemplo, um `.pptx` do OneDrive ainda só na nuvem) fica na tela até você fechá-lo. Da .4: no Mac, o DraftDeck aparece em "Abrir com" dos `.pptx` e abre arquivos por duplo clique ou arrastados para o Dock; arquivos ainda na nuvem esperam o download e explicam o que fazer se ele não terminar. Da .2: ícones Manzana Line, diálogos que ajustam a altura ao conteúdo e mais textos em português. A .1 trouxe a interface Manzana nas três aparências, três idiomas, salvamento automático e recuperação, botão Fechar e suporte a `.pptx`.
+Novidades: o aviso de fonte não instalada agora sai no idioma da interface (uma, duas ou mais fontes). Da .5: o aviso de um arquivo que não abriu (por exemplo, um `.pptx` do OneDrive ainda só na nuvem) fica na tela até você fechá-lo. Da .4: no Mac, o DraftDeck aparece em "Abrir com" dos `.pptx` e abre arquivos por duplo clique ou arrastados para o Dock; arquivos ainda na nuvem esperam o download e explicam o que fazer se ele não terminar. Da .2: ícones Manzana Line, diálogos que ajustam a altura ao conteúdo e mais textos em português. A .1 trouxe a interface Manzana nas três aparências, três idiomas, salvamento automático e recuperação, botão Fechar e suporte a `.pptx`.
 
 ## Código-fonte
 
