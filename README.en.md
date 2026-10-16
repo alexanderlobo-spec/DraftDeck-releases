@@ -46,9 +46,9 @@ Download the new version's file and install it over the old one. Your presentati
 
 ## Current version
 
-0.7.0-draftdeck.4 (October 16, 2026).
+0.7.0-draftdeck.5 (October 16, 2026).
 
-What's new: on the Mac, DraftDeck shows up in "Open With" for `.pptx` files and opens files by double-click or dropped on the Dock, without the macOS alert; OneDrive or iCloud files still in the cloud wait for the download and, if it doesn't finish, explain what to do. From .2: Manzana Line icons, dialogs that fit their content, full ribbon reachable in narrow windows and more Portuguese text. The .1 release brought the Manzana interface in three looks, three languages, AutoSave and recovery, the Close button and `.pptx` support.
+What's new: the notice for a file that didn't open (a OneDrive `.pptx` still in the cloud, for example) stays on screen until you close it. From .4: on the Mac, DraftDeck shows up in "Open With" for `.pptx` files and opens files by double-click or dropped on the Dock; files still in the cloud wait for the download and explain what to do if it doesn't finish. From .2: Manzana Line icons, dialogs that fit their content and more Portuguese text. The .1 release brought the Manzana interface in three looks, three languages, AutoSave and recovery, the Close button and `.pptx` support.
 
 ## Source code
 
