@@ -16,7 +16,7 @@ Baseado no [DeckCraft](https://github.com/storytold/deckcraft) (MIT OR Apache-2.
 | Sistema | Arquivo | Observações |
 |---|---|---|
 | macOS 11+ (Intel e Apple Silicon) | [`macOS/`](macOS/) — `.dmg` universal | Assinado com Developer ID e notarizado pela Apple: abre sem avisos. Arraste o DraftDeck para Aplicativos. |
-| Windows 10/11 (x64) | [`windows/`](windows/) — `.msi` ou `.zip` portátil | Sem certificado de assinatura: na primeira abertura o SmartScreen pode avisar; escolha "Mais informações › Executar assim mesmo". |
+| Windows 10/11 (x64) | [`windows/`](windows/) — `.exe` ou `.zip` portátil | Sem certificado de assinatura: na primeira abertura o SmartScreen pode avisar; escolha "Mais informações › Executar assim mesmo". |
 
 Cada arquivo tem um `.sha256` ao lado para conferência.
 
@@ -32,11 +32,11 @@ Cada arquivo tem um `.sha256` ao lado para conferência.
 
 ### Windows
 
-1. Entre na pasta [`windows/`](windows/), clique no arquivo `.msi` e depois no botão **Download**.
-2. Se o download não aparecer, olhe a lista de downloads do navegador: o Edge costuma bloquear o `.msi` por não ter certificado pago. Clique nos três pontos ao lado do arquivo e escolha **Manter**. No Chrome o download costuma passar direto.
+1. Entre na pasta [`windows/`](windows/), clique no arquivo `.exe` e depois no botão **Download**.
+2. Se o download não aparecer, olhe a lista de downloads do navegador: o Edge pode segurar o `.exe` por não ter certificado pago. Clique nos três pontos ao lado do arquivo e escolha **Manter**. No Chrome o download costuma passar direto.
 3. Dê dois cliques no arquivo baixado.
 4. Se aparecer a tela azul "O Windows protegeu o computador", clique em **Mais informações** e depois em **Executar assim mesmo**. O botão só aparece depois de "Mais informações". É o SmartScreen avisando que o app não tem certificado pago; acontece só na primeira vez.
-5. Siga o instalador: aceitar a licença, Instalar, Concluir. Ele pode pedir a senha de administrador.
+5. Siga o instalador: aceitar a licença, escolher a pasta, Instalar, Concluir. Ele instala só para o seu usuário e não pede senha de administrador.
 6. O DraftDeck fica no menu Iniciar.
 
 **Sem permissão para instalar programas?** Baixe o `.zip` portátil, descompacte numa pasta sua (Documentos, por exemplo) e abra o `DraftDeck.exe` de dentro dela. Nada é instalado.
@@ -47,9 +47,9 @@ Baixe o arquivo da versão nova e instale por cima. As apresentações ficam ond
 
 ## Versão atual
 
-0.7.0-draftdeck.6 (16/out/2026).
+0.7.0-draftdeck.7 (16/out/2026).
 
-Novidades: o aviso de fonte não instalada agora sai no idioma da interface (uma, duas ou mais fontes). Da .5: o aviso de um arquivo que não abriu (por exemplo, um `.pptx` do OneDrive ainda só na nuvem) fica na tela até você fechá-lo. Da .4: no Mac, o DraftDeck aparece em "Abrir com" dos `.pptx` e abre arquivos por duplo clique ou arrastados para o Dock; arquivos ainda na nuvem esperam o download e explicam o que fazer se ele não terminar. Da .2: ícones Manzana Line, diálogos que ajustam a altura ao conteúdo e mais textos em português. A .1 trouxe a interface Manzana nas três aparências, três idiomas, salvamento automático e recuperação, botão Fechar e suporte a `.pptx`.
+Novidades: o instalador do Windows agora é um `.exe`, que o Edge aceita melhor que o `.msi` e instala sem senha de administrador. Da .6: o aviso de fonte não instalada agora sai no idioma da interface (uma, duas ou mais fontes). Da .5: o aviso de um arquivo que não abriu (por exemplo, um `.pptx` do OneDrive ainda só na nuvem) fica na tela até você fechá-lo. Da .4: no Mac, o DraftDeck aparece em "Abrir com" dos `.pptx` e abre arquivos por duplo clique ou arrastados para o Dock; arquivos ainda na nuvem esperam o download e explicam o que fazer se ele não terminar. Da .2: ícones Manzana Line, diálogos que ajustam a altura ao conteúdo e mais textos em português. A .1 trouxe a interface Manzana nas três aparências, três idiomas, salvamento automático e recuperação, botão Fechar e suporte a `.pptx`.
 
 ## Código-fonte
 
