@@ -47,9 +47,9 @@ Baixe o arquivo da versão nova e instale por cima. As apresentações ficam ond
 
 ## Versão atual
 
-0.7.0-draftdeck.7 (16/out/2026).
+0.7.0-draftdeck.8 (17/out/2026).
 
-Novidades: o instalador do Windows agora é um `.exe`, que o Edge aceita melhor que o `.msi` e instala sem senha de administrador. Da .6: o aviso de fonte não instalada agora sai no idioma da interface (uma, duas ou mais fontes). Da .5: o aviso de um arquivo que não abriu (por exemplo, um `.pptx` do OneDrive ainda só na nuvem) fica na tela até você fechá-lo. Da .4: no Mac, o DraftDeck aparece em "Abrir com" dos `.pptx` e abre arquivos por duplo clique ou arrastados para o Dock; arquivos ainda na nuvem esperam o download e explicam o que fazer se ele não terminar. Da .2: ícones Manzana Line, diálogos que ajustam a altura ao conteúdo e mais textos em português. A .1 trouxe a interface Manzana nas três aparências, três idiomas, salvamento automático e recuperação, botão Fechar e suporte a `.pptx`.
+Novidades: a interface deixou de citar marcas da Microsoft onde havia termo neutro: SmartArt virou "Diagrama" (com a aba "Design do Diagrama"), WordArt virou "Texto Artístico" e "Apresentação do PowerPoint" virou "Apresentação PPTX"; os filtros dos diálogos de arquivo e as mensagens de erro seguem o mesmo critério. Da .7: o instalador do Windows é um `.exe`, que o Edge aceita melhor que o `.msi` e instala sem senha de administrador. Da .6: o aviso de fonte não instalada agora sai no idioma da interface (uma, duas ou mais fontes). Da .5: o aviso de um arquivo que não abriu (por exemplo, um `.pptx` do OneDrive ainda só na nuvem) fica na tela até você fechá-lo. Da .4: no Mac, o DraftDeck aparece em "Abrir com" dos `.pptx` e abre arquivos por duplo clique ou arrastados para o Dock; arquivos ainda na nuvem esperam o download e explicam o que fazer se ele não terminar. Da .2: ícones Manzana Line, diálogos que ajustam a altura ao conteúdo e mais textos em português. A .1 trouxe a interface Manzana nas três aparências, três idiomas, salvamento automático e recuperação, botão Fechar e suporte a `.pptx`.
 
 ## Código-fonte
 

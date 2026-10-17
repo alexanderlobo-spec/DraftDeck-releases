@@ -47,9 +47,9 @@ Download the new version's file and install it over the old one. Your presentati
 
 ## Current version
 
-0.7.0-draftdeck.7 (October 16, 2026).
+0.7.0-draftdeck.8 (October 17, 2026).
 
-What's new: the Windows installer is now an `.exe`, which Edge accepts more readily than the `.msi` and installs without an administrator password. From .6: the missing-font notice now follows the interface language (one, two or more fonts). From .5: the notice for a file that didn't open (a OneDrive `.pptx` still in the cloud, for example) stays on screen until you close it. From .4: on the Mac, DraftDeck shows up in "Open With" for `.pptx` files and opens files by double-click or dropped on the Dock; files still in the cloud wait for the download and explain what to do if it doesn't finish. From .2: Manzana Line icons, dialogs that fit their content and more Portuguese text. The .1 release brought the Manzana interface in three looks, three languages, AutoSave and recovery, the Close button and `.pptx` support.
+What's new: the interface no longer mentions Microsoft brands where a neutral term exists: SmartArt became "Diagram" (with the "Diagram Design" tab), WordArt became "Text Art" and "PowerPoint Presentation" became "PPTX Presentation"; file-dialog filters and error messages follow the same rule. From .7: the Windows installer is an `.exe`, which Edge accepts more readily than the `.msi` and installs without an administrator password. From .6: the missing-font notice now follows the interface language (one, two or more fonts). From .5: the notice for a file that didn't open (a OneDrive `.pptx` still in the cloud, for example) stays on screen until you close it. From .4: on the Mac, DraftDeck shows up in "Open With" for `.pptx` files and opens files by double-click or dropped on the Dock; files still in the cloud wait for the download and explain what to do if it doesn't finish. From .2: Manzana Line icons, dialogs that fit their content and more Portuguese text. The .1 release brought the Manzana interface in three looks, three languages, AutoSave and recovery, the Close button and `.pptx` support.
 
 ## Source code
 
