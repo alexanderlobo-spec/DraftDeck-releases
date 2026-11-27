@@ -15,7 +15,7 @@ Baseado no [DeckCraft](https://github.com/storytold/deckcraft) (MIT OR Apache-2.
 
 | Sistema | Arquivo | Observações |
 |---|---|---|
-| macOS 11+ (Intel e Apple Silicon) | [`macOS/`](macOS/) — `.dmg` universal | Assinado com Developer ID e notarizado pela Apple: abre sem avisos. Arraste o DraftDeck para Aplicativos. |
+| macOS 11+ (Intel e Apple Silicon) | [Baixar o DMG universal](https://github.com/alexanderlobo-spec/DraftDeck-releases/releases/download/v0.7.0-draftdeck.12/DraftDeck-0.7.0-draftdeck.12-macOS-universal-2026-11-27.dmg) | [Notas da versão e SHA-256](https://github.com/alexanderlobo-spec/DraftDeck-releases/releases/tag/v0.7.0-draftdeck.12) |
 | Windows 10/11 (x64) | [`windows/`](windows/) — `.exe` ou `.zip` portátil | Sem certificado de assinatura: na primeira abertura o SmartScreen pode avisar; escolha "Mais informações › Executar assim mesmo". |
 
 Cada arquivo tem um `.sha256` ao lado para conferência.
@@ -24,7 +24,7 @@ Cada arquivo tem um `.sha256` ao lado para conferência.
 
 ### macOS
 
-1. Entre na pasta [`macOS/`](macOS/), clique no arquivo `.dmg` e depois no botão **Download**.
+1. [Baixe o DraftDeck para macOS](https://github.com/alexanderlobo-spec/DraftDeck-releases/releases/download/v0.7.0-draftdeck.12/DraftDeck-0.7.0-draftdeck.12-macOS-universal-2026-11-27.dmg).
 2. Abra o arquivo baixado. Aparece uma janela com o ícone do DraftDeck e a pasta Aplicativos.
 3. Arraste o DraftDeck para Aplicativos.
 4. Abra o DraftDeck pelo Launchpad ou pela pasta Aplicativos. Não há aviso: o app é notarizado pela Apple.
@@ -45,11 +45,11 @@ Cada arquivo tem um `.sha256` ao lado para conferência.
 
 Baixe o arquivo da versão nova e instale por cima. As apresentações ficam onde você salvou; a instalação não mexe nelas.
 
-## Versão atual
+## Versão atual para macOS
 
-0.7.0-draftdeck.11 (23/nov/2026).
+[0.7.0-draftdeck.12](https://github.com/alexanderlobo-spec/DraftDeck-releases/releases/tag/v0.7.0-draftdeck.12) (27/nov/2026).
 
-Novidades: duas ou mais apresentações abertas ao mesmo tempo, cada uma na sua janela (Novo e Abrir com uma apresentação em uso abrem outra janela; cada janela é um processo, então no Dock aparece um ícone por janela), e uma faixa de abas quando mais de uma apresentação chega à mesma janela. Salvar como e Informações em português. A linha de abas da faixa rola em janela estreita. No Windows, a atualização por cima da versão anterior passou a ser recuperável. Da .8: a interface deixou de citar marcas da Microsoft onde havia termo neutro, e o instalador do Windows é um `.exe`.
+O idioma escolhido permanece salvo quando outra janela que já estava aberta é fechada.
 
 ## Código-fonte
 
